@@ -10,7 +10,7 @@ This project implements Deep Q-Learning to solve the Lunar Lander environment fr
 
 ## File
 
-- `C3_W3_A1_Assignment.ipynb`: Main notebook with all code and explanations
+- `LunarLanderReinforcement.ipynb`: Main notebook with all code and explanations
 
 ## How to Use
 
